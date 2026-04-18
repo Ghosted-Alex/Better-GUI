@@ -1,8 +1,10 @@
 <img width="1298" height="189" alt="edition" src="https://github.com/user-attachments/assets/10f9928a-298c-4f42-b1fd-2fbf950f03ae" />
 
-It is a java edition resource pack that upgrades the GUI for Minecraft Java Edition!
+It is a java edition resource pack that upgrades and resembles the Minecraft bedrock ore UI for Minecraft Java Edition!
 
 This project is Free and Open Source.
+
+Made under the MIT license.
 
 ---
 

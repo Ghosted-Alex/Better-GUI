@@ -14,15 +14,14 @@ Beta 1.2 Coming 4/19/2026!
 
 Beta 1.2 will require a minecraft version of 26.1 or later to run
 
-## Patch Notes: 
+## Patch Notes - Beta 1.2:
 
 - Modified Many kinds of User Interfaces:
-   - Title
 
+   - Title
 <img height="341" alt="Title Screen" src="https://github.com/user-attachments/assets/947b2049-b76b-4f56-9c3a-8edb8638d29d" />
 
    - Creative Inventory
-
 <img height="307" alt="Search Tab" src="https://github.com/user-attachments/assets/fda3155b-5638-4f89-852d-867fc1cb26d7" />
 <img height="307" alt="Survival Inventory Tab" src="https://github.com/user-attachments/assets/933e2007-e939-4df0-8ced-1c4280195eb5" />
 <img height="307" alt="Other Creative Tabs" src="https://github.com/user-attachments/assets/370eb760-6fbf-4124-a7f8-2eb670567886" />
@@ -45,5 +44,12 @@ Beta 1.2 will require a minecraft version of 26.1 or later to run
 <img height="307" alt="Anvil" src="https://github.com/user-attachments/assets/ac5fa4c3-6204-4133-98c4-7b0e8bbca642" />
 <img height="307" alt="Chest" src="https://github.com/user-attachments/assets/ce754275-212b-4fea-b442-1a33966a49af" />
 <img height="307" alt="Shulker Box" src="https://github.com/user-attachments/assets/1dba5a18-c795-46c7-841b-6c65ed390b21" />
+
+   - Most Buttons
+<img height="301" alt="Button Showcase" src="https://github.com/user-attachments/assets/eb100d4a-a16e-4f1a-b83a-6980a266b7a6" />
+
+   - On/Off + Toggles
+<img height="123" alt="On/Off Showcase" src="https://github.com/user-attachments/assets/f4763f2a-ae4a-49af-a245-895ef2eb7af2" />
+<img height="123" alt="image" src="https://github.com/user-attachments/assets/a1be5354-bb8c-4fdf-885a-ee1703e59050" />
 
 **Full Changelog**: https://github.com/Gh053d413x/Better-GUI/compare/v1.0...v1.1

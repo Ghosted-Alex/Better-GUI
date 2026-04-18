@@ -11,7 +11,7 @@ Made under the MIT license.
 Version Beta 1.1 - The Parity Update
 
 Beta 1.2 Coming Soon!
-Beta 1.2 will require a minecraft version of 1.21.9 or later
+Beta 1.2 will require a minecraft version of 26.1 or later to run
 
 ## Patch Notes: 
 

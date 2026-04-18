@@ -1,4 +1,4 @@
-<img width="1298" height="189" alt="edition" src="https://github.com/user-attachments/assets/10f9928a-298c-4f42-b1fd-2fbf950f03ae" />
+<img width="1298" height="189" alt="edition" src="https://github.com/user-attachments/assets/b825371d-eeaa-4dd4-8ae6-fce591a5936e" />
 
 It is a java edition resource pack that upgrades and resembles the Minecraft bedrock ore UI for Minecraft Java Edition!
 
@@ -10,7 +10,8 @@ Made under the MIT license.
 
 Version Beta 1.1 - The Parity Update
 
-Beta 1.2 Coming Soon!
+Beta 1.2 Coming 4/19/2026!
+
 Beta 1.2 will require a minecraft version of 26.1 or later to run
 
 ## Patch Notes: 
@@ -18,32 +19,31 @@ Beta 1.2 will require a minecraft version of 26.1 or later to run
 - Modified Many kinds of User Interfaces:
    - Title
 
-<img width="2560" height="1017" alt="2025-11-24_23 27 36" src="https://github.com/user-attachments/assets/32701f98-1b60-414c-9bc0-9c587ff71627" />
+<img height="341" alt="Title Screen" src="https://github.com/user-attachments/assets/947b2049-b76b-4f56-9c3a-8edb8638d29d" />
 
    - Creative Inventory
 
-
-<img width="664" height="606" alt="image" src="https://github.com/user-attachments/assets/033706cb-8854-4812-92a5-6561787ca148" />
-<img width="656" height="604" alt="image" src="https://github.com/user-attachments/assets/406ce21b-50df-45da-a391-ada251724d1a" />
-<img width="652" height="609" alt="image" src="https://github.com/user-attachments/assets/894231dc-f674-4a6b-9600-ef032c53918c" />
+<img height="307" alt="Search Tab" src="https://github.com/user-attachments/assets/fda3155b-5638-4f89-852d-867fc1cb26d7" />
+<img height="307" alt="Survival Inventory Tab" src="https://github.com/user-attachments/assets/933e2007-e939-4df0-8ced-1c4280195eb5" />
+<img height="307" alt="Other Creative Tabs" src="https://github.com/user-attachments/assets/370eb760-6fbf-4124-a7f8-2eb670567886" />
 
    - Recipe Book
+<img height="275" alt="Recipe Book General Look" src="https://github.com/user-attachments/assets/273cc1da-d11f-43eb-806c-aff97c1b3d29" />
+<img height="275" alt="Recipe Book Recipe Selection for Crafting Table" src="https://github.com/user-attachments/assets/98f330df-5967-4970-ab57-50090b1e8ca9" />
+<img height="275" alt="Recipe Book Recipe Selection for Furnace" src="https://github.com/user-attachments/assets/065e9c1c-97f1-4a2f-9b77-b46154ea7b3c" />
 
-<img width="760" height="603" alt="image" src="https://github.com/user-attachments/assets/07b8add9-12bb-431f-88c5-497210a813e3" />
-<img width="435" height="499" alt="image" src="https://github.com/user-attachments/assets/59e86704-9170-4b26-83a5-68305cd36425" />
-<img width="542" height="430" alt="image" src="https://github.com/user-attachments/assets/9e82c76e-f5d4-434c-a7de-1372d33d84bb" />
-
-   - General GUI Background
-
-<img width="256" height="256" alt="demo_background" src="https://github.com/user-attachments/assets/2ef25545-9303-470f-8e9d-4447e454a6c9" />
-
-   - Difficulty Lock Button
-
-<img width="20" height="20" alt="unlocked_button_highlighted" src="https://github.com/user-attachments/assets/35e17a58-c1fd-4de6-89ad-93d1cc16c3ca" />
-<img width="20" height="20" alt="locked_button" src="https://github.com/user-attachments/assets/ba680de9-8b56-4007-bd9f-fe1b7126e78b" />
-<img width="20" height="20" alt="locked_button_disabled" src="https://github.com/user-attachments/assets/f312a77e-6429-4009-af76-d5d068d5ccaf" />
-<img width="20" height="20" alt="locked_button_highlighted" src="https://github.com/user-attachments/assets/c85372a6-54f2-4db5-b167-e1da24f6aabc" />
-<img width="20" height="20" alt="unlocked_button" src="https://github.com/user-attachments/assets/024ef1fa-c470-4ce9-b94a-3018d4cd8bcc" />
-<img width="20" height="20" alt="unlocked_button_disabled" src="https://github.com/user-attachments/assets/277ab3bc-ab1e-4a45-97d2-eeb6ad016c6d" />
+   - Containers
+<img height="307" alt="Crafting Table" src="https://github.com/user-attachments/assets/34579064-17f1-435c-bc2f-26af90159194" />
+<img height="307" alt="Furnace" src="https://github.com/user-attachments/assets/47e8aac6-f634-4287-a320-665f30b7b0d7" />
+<img height="307" alt="Cartography Table" src="https://github.com/user-attachments/assets/dd4b4d5e-adf4-4e1e-9233-67431a9cfbe8" />
+<img height="307" alt="Stonecutter" src="https://github.com/user-attachments/assets/f7937395-7d5e-4a9a-8242-b64ad0a3fc0e" />
+<img height="307" alt="Blast Furnace" src="https://github.com/user-attachments/assets/49e4357c-191d-479a-9f2c-6c81652e30a5" />
+<img height="307" alt="Smoker" src="https://github.com/user-attachments/assets/d9bdd662-94a8-4ec9-ac83-5ec18cc60613" />
+<img height="307" alt="Loom" src="https://github.com/user-attachments/assets/9098c3f7-0cfc-4231-b400-33ce30d27483" />
+<img height="307" alt="Grindstone" src="https://github.com/user-attachments/assets/f59d7647-00be-4efa-a218-6b4e9814d5d6" />
+<img height="307" alt="Smithing Table" src="https://github.com/user-attachments/assets/ab128648-d7e4-4af4-a53d-c8b7406af436" />
+<img height="307" alt="Anvil" src="https://github.com/user-attachments/assets/ac5fa4c3-6204-4133-98c4-7b0e8bbca642" />
+<img height="307" alt="Chest" src="https://github.com/user-attachments/assets/ce754275-212b-4fea-b442-1a33966a49af" />
+<img height="307" alt="Shulker Box" src="https://github.com/user-attachments/assets/1dba5a18-c795-46c7-841b-6c65ed390b21" />
 
 **Full Changelog**: https://github.com/Gh053d413x/Better-GUI/compare/v1.0...v1.1

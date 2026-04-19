@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "min_format": [83,0],
+        "max_format": [84,0],
+        "description": {
+            "translate": "better_gui.resoruce_pack_description",
+            "fallback": "\u00A77Upgrades the GUI.\n\u00A7e\u26A0 No longer works below 26.1"
+        }
+    }
+}

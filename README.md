@@ -7,8 +7,8 @@ This project is **Free and Open Source** under the **MIT License**.
 ---
 
 ### 📅 Version Info
-* **Current:** Beta 1.1 - *The Parity Update*
-* **Upcoming:** Beta 1.2 - *Releasing 4/19/2026*
+* **Current:** Beta 1.2 - *The Darkening*
+* **Upcoming:** A mod
 * **Requirement:** Minecraft version **26.1** or later.
 
 ---

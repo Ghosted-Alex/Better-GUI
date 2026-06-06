@@ -2,7 +2,7 @@
 
 A Java Edition resource pack that upgrades and resembles the Minecraft Bedrock UI!
 
-This project is **Free and Open Source** under the **MIT License**.
+This project is **Free and Open Source** under the **Creative Commons 1.0 Universal License**.
 
 ---
 
